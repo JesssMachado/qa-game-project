@@ -1,0 +1,3 @@
+- **Goal:** Test a full website with login, registration, and a simple game.
+- **Testing Focus:** Full QA coverage (API, accessibility, mobile responsiveness).
+- **Technologies:** Selenium, JUnit, REST Assured, Axe-core, Browser DevTools for mobile

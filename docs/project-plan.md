@@ -1,0 +1,7 @@
+- **Goal:** Build a full website with login, registration, and a simple game.
+- **Testing Focus:** Full QA coverage (API, accessibility, mobile responsiveness).
+- **Technologies:**
+    - **Frontend:** HTML, CSS, JS
+    - **Backend:** REST API using JSON Server or Node.js
+    - **Testing Tools:** Selenium, JUnit, REST Assured, Axe-core, Browser DevTools for mobile
+    - **Dev Tools:** VSCode, GitHub
